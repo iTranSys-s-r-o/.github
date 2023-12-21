@@ -12,7 +12,7 @@ Welcome to iTranSys company where the future of public transportations is done..
 
 ## Private repositories
 
-- [iTCourses](https://github.com/iTranSys-s-r-o/itcourses)
-- [iTCourses Web App](https://github.com/iTranSys-s-r-o/itcourses-web-app)
-- [Trips' predictions](https://github.com/iTranSys-s-r-o/trips-predictions)
-- [Company Web](https://github.com/iTranSys-s-r-o/company-web)
+- iTCourses [:technologist:](https://github.com/iTranSys-s-r-o/itcourses) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/8)
+- iTCourses Web App [:technologist:](https://github.com/iTranSys-s-r-o/itcourses-web-app) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/5)
+- Trips' predictions [:technologist:](https://github.com/iTranSys-s-r-o/trips-predictions) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/4)
+- Company Web [:technologist:](https://github.com/iTranSys-s-r-o/company-web) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/1)
