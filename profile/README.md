@@ -17,4 +17,4 @@ Welcome to iTranSys company where the future of public transportations is done..
 - iTCourses Web App [:technologist:](https://github.com/iTranSys-s-r-o/itcourses-web-app) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/5)
 - Trips' predictions [:technologist:](https://github.com/iTranSys-s-r-o/trips-predictions) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/4)
 - Company Web [:technologist:](https://github.com/iTranSys-s-r-o/company-web) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/1)
-- Sales & Marketing [:technologist:](https://github.com/iTranSys-s-r-o/sales-marketing) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/10)
+- Business Development [:technologist:](https://github.com/iTranSys-s-r-o/business-development) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/10)
