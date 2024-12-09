@@ -15,6 +15,7 @@ Welcome to iTranSys company where the future of public transportations is done..
 - iTCourses [:technologist:](https://github.com/iTranSys-s-r-o/itcourses) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/8)
 - Trains Planning Web App [:technologist:](https://github.com/iTranSys-s-r-o/pt-plan-web-app) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/11)
 - Public Transport Planning Web App [:technologist:](https://github.com/iTranSys-s-r-o/pt-plan-web-app) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/5)
+- Optimization microservice [:technologist:](https://github.com/iTranSys-s-r-o/optimization)
 - Real-time Predictions [:technologist:](https://github.com/iTranSys-s-r-o/real-time-predictions)
 - FRI Public Transport Predictions [:technologist:](https://github.com/iTranSys-s-r-o/fri-public-transport-predictions) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/4)
 - Company Web [:technologist:](https://github.com/iTranSys-s-r-o/company-web) [:memo:](https://github.com/orgs/iTranSys-s-r-o/projects/1)
