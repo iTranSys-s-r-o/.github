@@ -1,0 +1,55 @@
+name: Task / Feature / Bug
+title: "[TASK] "
+labels: []
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Summary
+        <!-- Briefly describe the task, feature, or bug. Keep it concise and clear. -->
+
+  - type: input
+    id: description
+    attributes:
+      label: Detailed Description
+      description: |
+        Explain the problem, feature, or improvement in detail.
+        Include context, background, and why this matters.
+
+  - type: input
+    id: requirements
+    attributes:
+      label: Requirements / Acceptance Criteria
+      description: |
+        List the concrete, testable conditions that define when this task is complete.
+        Example: 
+        - The function returns correct results for all valid inputs.
+        - UI elements behave as expected on all supported devices.
+
+  - type: input
+    id: steps
+    attributes:
+      label: Steps / Implementation Notes
+      description: |
+        Optional: Describe how to reproduce the bug or suggested steps to implement the feature.
+        This helps AI agents generate relevant code or solutions.
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: Select the priority of this issue
+      options:
+        - Low
+        - Medium
+        - High
+
+  - type: input
+    id: additional_notes
+    attributes:
+      label: Additional Notes / Context
+      description: |
+        Any extra info that can help developers or AI agents.
+        Example: links to design docs, related issues, API references.
